@@ -35,7 +35,7 @@ export default {
     gap: 2rem;
   }
   &_card {
-    background-color: #c7c7c7;
+    background-color: $bg-primary-dark;
     box-shadow: 1px 1px 3px rgba(51,51,51,0.99);
     padding: 2rem;
   }

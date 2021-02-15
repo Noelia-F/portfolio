@@ -37,10 +37,10 @@ export default {
       margin: 0;
       padding: 0.5rem 1rem;
       font-weight: bold;
-      color: #430000;
+      color: $bg-secondary-dark;
     }
     &__section {
-      color: #430000;
+      color: $bg-secondary-dark;
       text-decoration: none;
       padding: 0.5rem 1rem;
 

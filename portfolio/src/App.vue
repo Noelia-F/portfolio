@@ -27,7 +27,7 @@ body {
 #app {
   font-family: 'Raleway', sans-serif;
   position: relative;
-  background-color: #fafafa;
+  background-color: $bg-primary;
   display: flex;
   flex-direction: column;
   height: 100vh;
@@ -35,13 +35,13 @@ body {
 .title {
   margin: 0;
   font-size: 2em;
-  color: #430000;
+  color: $bg-secondary-dark;
   font-family: 'Montserrat', sans-serif;
 }
 .subtitle {
   margin: 0;
   font-size: 1.5em;
-  color: #430000;
+  color: $bg-secondary-dark;
 }
 .text {
   margin: 0;
