@@ -25,7 +25,7 @@ body {
   margin: 0;
 }
 #app {
-  font-family: 'Raleway', sans-serif;
+  font-family: $font-primary;
   position: relative;
   background-color: $bg-primary;
   display: flex;
@@ -36,7 +36,7 @@ body {
   margin: 0;
   font-size: 2em;
   color: $bg-secondary-dark;
-  font-family: 'Montserrat', sans-serif;
+  font-family: $font-secondary;
 }
 .subtitle {
   margin: 0;
