@@ -6,8 +6,12 @@
       <p class="text">Texto descriptivo aquí...</p>
     </section>
     <section class="about__info">
-      <div class="about_card"></div>
-      <div class="about_card"></div>
+      <div class="about_card">
+        <p class="title title--section">Idiomas</p>
+      </div>
+      <div class="about_card">
+        <p class="title title--section">Intereses</p>
+      </div>
     </section>
   </div>
 </template>

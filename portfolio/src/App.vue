@@ -37,6 +37,10 @@ body {
   font-size: 2em;
   color: $bg-secondary-dark;
   font-family: $font-secondary;
+  font-weight: bold;
+  &--section {
+    font-size: 1.3em;
+  }
 }
 .subtitle {
   margin: 0;
