@@ -19,7 +19,7 @@ export default {
     padding: 2rem;
     height: auto;
     min-height: 100px;
-    background-color: #424B54;
+    background-color: #430000;
     &__text {
       color: #fff;
     }
